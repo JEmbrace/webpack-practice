@@ -1,2 +1,2 @@
-# webpack-practice
-webpack总结过程中的代码
+# second-configFile
+使用配置文件的方式打包文件
