@@ -1,2 +1,2 @@
 # webpack-practice
-web总结过程中的代码
+webpack总结过程中的代码
