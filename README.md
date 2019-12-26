@@ -1,4 +1,4 @@
-# second-configFile
+# webpack实践（二）- webpack配置文件
 使用配置文件的方式打包文件 
  
 ## 使用方法    
